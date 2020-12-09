@@ -26,7 +26,7 @@ body{
 }
 
 
-.signup{
+.signin{
     border-radius: 25px;
     border: 2px solid black;
 
@@ -42,10 +42,7 @@ body{
 }
 
 
-.signin{
-    padding-top: 6%;
-    text-align: center;
-}
+
 
 #msg
 {
@@ -63,6 +60,17 @@ body{
     
 }
 
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+
+#todoList{
+    border: 10px solid rgb(42, 168, 31);
+    border-radius: 1rem;
+}
 
 
 
