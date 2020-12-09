@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-size: cover;
+}
+
+
+.clf{
+    
+    padding-top: 3%;
+}
+
+.clf a{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    padding-left: 47%;
+}
+
+
+.camel h1{
+    text-align: center;
+}
+
+
+.signup{
+    border-radius: 25px;
+    border: 2px solid black;
+
+    padding: 30px;
+
+    margin-top: 5%;
+    background-color:white;    
+    opacity: 0.7;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 20px 20px 50px 15px grey;
+  
+}
+
+
+.signin{
+    padding-top: 6%;
+    text-align: center;
+}
+
+#msg
+{
+    color: red;
+}
+
+.sign p{
+    color: red;
+    font-size: small;
+
+    padding: 4px;
+    text-align: center;
+
+    
+    
+}
+
+
+
+
+
